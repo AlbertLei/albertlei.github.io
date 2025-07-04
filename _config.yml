@@ -4,7 +4,7 @@ plugins:
 title: Haoran LEI
 description: I work on and am fascinated with econ theory
 show_downloads: false
-header_pages:
-- cv.md
+header_pages:  [''] # Disable header pages
 
-# header_pages:  [''] # Disable header pages
+# header_pages:
+# - cv.md
