@@ -1,10 +1,21 @@
-remote_theme: jekyll/minima
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Haoran LEI
+# remote_theme: jekyll/minima
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+
+title: "Haoran LEI's Webpage"
 description: I work on and am fascinated with econ theory
 show_downloads: false
-header_pages:  [''] # Disable header pages
+
+#header_pages:  [''] # Disable header pages
 
 # header_pages:
 # - cv.md
