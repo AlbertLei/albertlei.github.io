@@ -1,11 +1,7 @@
-<p><img src="fig/portrait-min.png" style="max-width:25%;min-width:100px;float:right;" alt="Haoran's portrait" /></p>
+# Haoran LEI's Webpage
+Haoran Lei, a working economist at Hunan University
 
-**Haoran Lei** <br>
-Assistant professor of Economics <br>
-Hunan University <br>
-
-Email: hleiaa ατ connect.ust.hk <br>
-[ [CV] ](cv)
+Email: hleiaa ατ connect.ust.hk
 
 <!--
 - 2024-01-18: I will present [Information transmission in monopolistic credence goods markets](https://arxiv.org/abs/2303.13295) at the [Webinar Series on Credence Goods and Expert Markets][cg-webinar]
@@ -13,31 +9,23 @@ Email: hleiaa ατ connect.ust.hk <br>
 [cg-webinar]: https://www.uibk.ac.at/credence-goods/events/webinar-cg-em/index.html.en
 -->
 
-## Papers
+## Published
+Hu, Xiaoxiao & Lei, Haoran (2025).
+[The optimality of (stochastic) veto delegation.](pdf/hu2025.pdf)
+*Games and Economic Behavior,* 150, 215-234.
 
-**Published**
-
-1. [Delegation and information disclosure with unforeseen contingencies], 2021 <br>
-   with Xiaojian Zhao, *B.E. Journal of Theoretical Economics (Special Issue on Unawareness)*
-   - ["Introduction to the Special Issue on Unawareness"] by Burkhard C. Schipper
-
-[Delegation and information disclosure with unforeseen contingencies]: https://www.degruyter.com/document/doi/10.1515/bejte-2018-0184/html
-
-["Introduction to the Special Issue on Unawareness"]: https://www.degruyter.com/document/doi/10.1515/bejte-2021-0078/html
+Lei, Haoran & Zhao, Xiaojian (2021).
+[Delegation and information disclosure with unforeseen contingencies.](pdf/lei2021.pdf)
+*The BE Journal of Theoretical Economics,* 21(2), 637-656.
+- This paper appears at a Special Issue on Unawareness at BEJTE.
+  See the (ungated) [issue introduction](https://www.degruyter.com/document/doi/10.1515/bejte-2021-0078/html)
 
 
-**Unpublished**
+## Working
+Irrelevance of personalized pricing for privately informed monopolists, 2025.
+<https://arxiv.org/abs/2303.13295>
 
-<!-- HTML5 attribute that changes start number https://stackoverflow.com/a/48612359 -->
+Credibility in Credence Goods Markets, 2024.
+<https://arxiv.org/abs/2310.09544>
 
-{:start="2"}
-1. [The optimality of (stochastic) veto delegation](https://arxiv.org/abs/2208.14829), 2024<br>
-   with Xiaoxiao Hu. Revise and Resubmit, *GEB* 
-
-1. [Information transmission in monopolistic credence goods markets](https://arxiv.org/abs/2303.13295), 2023<br>
-   with Xiaoxiao Hu
-
-1. [Credibility in Credence Goods Markets](https://arxiv.org/abs/2310.09544), 2024<br>
-   with Xiaoxiao Hu
-
-1. Sequential screening meets last-minute sales, 2021
+Sequential screening meets last-minute sales, 2024.
