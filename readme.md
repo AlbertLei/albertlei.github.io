@@ -30,3 +30,14 @@ Credibility in Credence Goods Markets, 2024.
 <https://arxiv.org/abs/2310.09544>
 
 Sequential screening meets last-minute sales, 2024.
+
+
+
+## Appendix
+Here is my Chinese website <https://hlei.bayesgame.org>
+and some [family photos.](https://hlei.bayesgame.org/photos)
+
+
+
+
+
